@@ -1,0 +1,45 @@
+body .blue {
+  color: blue;
+}
+
+.center {
+  text-align: center;
+}
+
+/** {
+  border: solid 1px red;
+}*/
+
+.info {
+  width: 50%;
+  background-color: dodgerblue;
+  margin: 0px auto;
+}
+
+/* Navbar styling: */
+nav {
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    background: #990000;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: #111;
+}
